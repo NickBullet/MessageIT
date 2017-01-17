@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2016-черв.-02 01:09" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" populationMethod="Wizard+PACKAGE" version="1.8.3.v20151019-2113">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="com.nickbullet.messageitmobile.NameActivity" project="MessageITMobile" xLocation="1318" yLocation="40"/>
+        <class className="com.nickbullet.messageitmobile.MainActivity" project="MessageITMobile" xLocation="715" yLocation="30"/>
+        <class className="com.nickbullet.messageitmobile.MessagesListAdapter" project="MessageITMobile" xLocation="30" yLocation="86"/>
+    </diagram>
+</ajsv>

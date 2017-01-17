@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2016-черв.-02 22:49" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" populationMethod="manual" version="1.8.3.v20151019-2113">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="com.nickbullet.messageit.AES" project="MessageIT" xLocation="100" yLocation="314"/>
+        <class className="com.nickbullet.messageit.SocketServer" project="MessageIT" xLocation="1694" yLocation="100"/>
+        <class className="com.nickbullet.messageit.JSONUtils" project="MessageIT" xLocation="964" yLocation="112"/>
+        <class className="com.nickbullet.messageit.MCTables" project="MessageIT" xLocation="689" yLocation="359"/>
+    </diagram>
+</ajsv>
